@@ -2,7 +2,7 @@
 
 ## 🔥 An amazing Vite + React project featuring GSAP animations, scroll effects, and modern UI for a next-level interactive experience.
 
-## 🌐 [Live Demo](https://captainginny.github.io/react-pizza.github.io/)
+## 🌐 [Live Demo](https://captainginny.github.io/AnAmazingProject/)
 
 ## 🛠 Technologies:
 
